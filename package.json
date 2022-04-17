@@ -1,0 +1,20 @@
+{
+  "name": "repo18",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shile88/Repo18.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shile88/Repo18/issues"
+  },
+  "homepage": "https://github.com/shile88/Repo18#readme"
+}
